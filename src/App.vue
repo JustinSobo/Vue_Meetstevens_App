@@ -42,9 +42,6 @@ export default {
       </div>
     </div>
   </div>
-
-<div><p>This is a test. Ignore.</p></div>
-<div><p>This is a test. Ignore.</p></div>
 </template>
 
 
